@@ -12,13 +12,13 @@ This open-source, multiplatform project has been developed from the ground up to
 
 Pre-built binaries of the latest commit (snapshot) are currently available for the following operating systems:
 
-- **Windows**: Download a ZIP-archive, either [Windows x64 (64-bit)](https://github.com/Doom2D/flake.nix/releases/latest/download/doom2df_win64.x86-64.zip) or [**Windows x86 (32-bit)**](https://github.com/Doom2D/flake.nix/releases/latest/download/doom2df_windows.x86.zip).  
+- **Windows**: Download a ZIP-archive, either [**x86 (32-bit, recommended)**](https://github.com/Doom2D/flake.nix/releases/latest/download/doom2df_windows.x86.zip) or [x64 (64-bit, experimental)](https://github.com/Doom2D/flake.nix/releases/latest/download/doom2df_win64.x86-64.zip).  
   Windows XP and newer is supported.
 
-- **Android**: Download the [**Android APK**](https://github.com/Doom2D/flake.nix/releases/latest/download/Doom2D-Forever.apk).  
+- **Android**: Download the [**application package (.apk)**](https://github.com/Doom2D/flake.nix/releases/latest/download/Doom2D-Forever.apk).  
   Android 4.0.1 and higher is supported.
 
-- **macOS**: Download the [**macOS App**](https://github.com/Doom2D/flake.nix/releases/latest/download/Doom2D-Forever.dmg).  
+- **macOS**: Download the [**application bundle (.dmg)**](https://github.com/Doom2D/flake.nix/releases/latest/download/Doom2D-Forever.dmg).  
   Intel and Apple silicon Mac computers running macOS >= 11.0 are supported.
 
 # Disclaimer
